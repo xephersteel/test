@@ -27,3 +27,5 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
 }
+
+Amazon AWS Access Key ID=AKIA1244FDEGB5GRFV
